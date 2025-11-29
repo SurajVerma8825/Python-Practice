@@ -23,14 +23,15 @@
 
 # 📚 **Table of Contents**
 
-1. [🔸 Output in Python](#-output-in-python)
+1. [🔸 Output in Python](#-1-output-in-python)
 2. [🔸 Variables](#-2-variables)
 3. [🔸 Data Types](#-3-data-types)
 4. [🔸 Type Conversion](#-4-type-conversion--casting)
 5. [🔸 Operators](#-5-operators-in-python)
 6. [🔸 Input in Python](#-6-input-in-python)
 7. [🔸 Practice Program](#-final-practice-program)
-8. [✨ Author](#-author)
+8. [📦 Assignments](#-python-fundamentals--assignment-1)
+9. [✨ Author](#-author)
 
 ---
 
@@ -165,6 +166,83 @@ print("Average =", avg)
 
 ---
 
+# 📝 **📦 Python Fundamentals — Assignment 1**
+> 📄 *Source: Python Fundamentals Assignment1 MahaRockers.pdf*
+> 💡 *NOTE: This entire assignment's solutions are already uploaded in my GitHub repository.*
+
+---
+
+## **Q1️⃣  Ask user for their name & age → print message**
+Example:
+```
+Hello Shradha, you are 21 years old!
+```
+
+---
+
+## **Q2️⃣  Take two numbers & print:**
+- Sum
+- Difference
+- Product
+- Quotient
+
+---
+
+## **Q3️⃣ Convert two integers + one float to float & print average**
+
+---
+
+## **Q4️⃣ Convert a string number (e.g., "45") into:**
+- Integer
+- Float
+- String again
+Print all values + their types.
+
+---
+
+## **Q5️⃣ Evaluate expression:**
+```
+x = 10 + 3 * 2 ** 2
+```
+Based on operator precedence, explain the output.
+
+---
+
+## **Q6️⃣ Swap values of two numbers entered by user**
+
+---
+
+## **Q7️⃣ Convert Celsius → Fahrenheit**
+Formula:
+```
+F = (C * (9/5)) + 32
+```
+
+---
+
+## **Q8️⃣ Input radius (r) → Print area**
+Formula:
+```
+Area = π * r²   (take π = 3.14)
+```
+
+---
+
+## **Q9️⃣ Compute Simple Interest**
+Ask for P, R, T
+Formula:
+```
+SI = (P * R * T) / 100
+```
+
+---
+
+## **Q🔟 Take decimal like 45.78 → Output:**
+- Integer part → 45
+- Fractional part → .78
+
+---
+
 # ✨ **Author**
 
 ### 👤 **Suraj Kumar**
@@ -173,8 +251,8 @@ print("Average =", avg)
 📍 India
 
 📫 **Contact:**
-- Email: *add your email here*
-- GitHub: *your GitHub link here*
+- Email: kumarsurajverma6001@gmail.com
+- GitHub: [*your GitHub link here*](https://github.com/SurajVerma8825/Python-Practice)
 
 ---
 
